@@ -1,2 +1,2 @@
-eval(process.env.K)
-//loader
+eval(
+process.env.K)
